@@ -10,6 +10,7 @@ First, before you start to invest why not learn a thing or two?
 | Link          | Description   |
 |:--------------|:--------------|
 |[Learn to Invest](https://beanvest.com/learn)| ❤️ 100% free interactive course with 14 lessons about investing in stocks, from beginner to advanced strategies. Also available in [🇫🇷 French](https://beanvest.com/fr/learn)|
+|[Pehle Samjho — Reading PSX filings](https://pehlesamjho.com/learn/filings)|Free guided course on reading Pakistan Stock Exchange company filings (result order + practice)|
 
 ## Videos
 
